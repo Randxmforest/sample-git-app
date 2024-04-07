@@ -35,4 +35,8 @@ st.sidebar.markdown("""
 - Contact
 - Career
 - Login
-""")
+""") 
+
+st.sidebar.selectbox('Selet One',['teacher','student'])
+
+st.sidebar.button("Select")
