@@ -5,7 +5,7 @@ st.title("Random Ass Website")
 col1,col2=st.columns(2)
 
 with col1:
-    st.write('')
+    st.write('Screen shot of replaced image png')
 
 
 
