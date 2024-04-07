@@ -27,3 +27,10 @@ st.subheader("DSA")
 
 
 st.caption('Hello')
+
+st.sidebar.title("Menu")
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+""")
