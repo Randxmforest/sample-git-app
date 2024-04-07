@@ -17,7 +17,7 @@ with col2:
 
 st.header('Courses Added')
 st.subheader('Data Science')
-
+st.subheader("DSA")
 
 
 # st.subheader('pyrhon')
